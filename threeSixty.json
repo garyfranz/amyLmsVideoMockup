@@ -1,0 +1,67 @@
+{
+  "version": "3.94.33593.0",
+  "course_id": "6cr0rjIRDJU_course_id",
+  "title": "Platform Navigation",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6RipRNVElWH",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6eFt9YCeZPI",
+      "title": "Steps to Play a Video from the Settle In Website",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5rHfB2ihm4H",
+      "title": "Steps to Play a Video from the Settle In Website",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6ZaGWM3uKem",
+      "title": "Step One: Identify the Video",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "60sq5wOrcEz",
+      "title": "Step One: Identify the Video",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "61fgPkTkPjA",
+      "title": "Step Two: Find the Video ",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6o0aR38Kv7g",
+      "title": "Step Two: Find the Video ",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6aHSmqQVMjs",
+      "title": "Step Two: Find the Video ",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6GM4mA2SJZj",
+      "title": "Let’s Watch the Video Now",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 635
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
